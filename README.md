@@ -7,6 +7,8 @@
 - <b>JAVA</b>
   - [The Rise of MENACE (A machine learning powered TicTacToe game)](https://github.com/LuisAcostaXYZ/TheRiseOfMenace)
 
+- <b>C++</b>
+  - [Bohnanza (A card game adapted to a text based video game)](https://github.com/LuisAcostaXYZ/Bohnanza)
 
 
 <h2>CAD Projects:</h2>
