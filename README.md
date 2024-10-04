@@ -14,6 +14,7 @@
 <h2>CAD Projects:</h2>
 
 - [UAV-SolidWorks](https://github.com/LuisAcostaXYZ/UAV-SoildWorks)
+- [CIRC Rover](https://github.com/LuisAcostaXYZ/ICRC-Rover)
 
 
 
