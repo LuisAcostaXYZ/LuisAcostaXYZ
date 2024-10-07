@@ -13,8 +13,10 @@
 
 <h2>CAD Projects:</h2>
 
-- [UAV-SolidWorks](https://github.com/LuisAcostaXYZ/UAV-SoildWorks)
-- [CIRC Rover](https://github.com/LuisAcostaXYZ/ICRC-Rover)
+- [UAV-SolidWorks](https://github.com/LuisAcostaXYZ/UAV-SoildWorks)</br>
+  <img src="https://i.imgur.com/NA47IWg.png" height="20%" width="20%" alt="UAV assembly"/>
+- [CIRC Rover](https://github.com/LuisAcostaXYZ/ICRC-Rover)</br>
+  <img src="https://imgur.com/plBOuJ0.png" height="20%" width="20%" alt="Chassis and suspension"/>
 
 
 
